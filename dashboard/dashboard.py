@@ -82,3 +82,5 @@ plt.ylabel('Rata-rata Skor Review')
 plt.grid(True, axis='y')
 st.pyplot(plt)
 
+st.caption('Copyright (c) Delapuspita 2024')
+
