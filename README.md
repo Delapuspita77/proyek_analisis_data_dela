@@ -35,10 +35,10 @@ Proyek ini terdiri dari beberapa file dan direktori:
 
 3. Unggah Dataset:
    - Anda dapat mengunggah file dataset ke Google Colab menggunakan fitur unggah file.
+   - Upload data yang diperlukan (olist_order_dataset.csv, olist_order_items_dataset.csv, olist_order_reviews_dataset.csv)
 
 4. Pasang Dependensi:
-   - Pastikan untuk menginstal semua library yang diperlukan. Anda dapat menggunakan file `requirements.txt` untuk menginstal semua dependensi dengan perintah berikut:
-   ```python
+   - Instal dependensi yang diperlukan
    !pip install -r requirements.txt
 
 ### 2. Menjalankan Dasbor Streamlit
