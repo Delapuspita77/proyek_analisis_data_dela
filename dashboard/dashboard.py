@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Include data 
-combined_df = pd.read_csv(r'C:\Users\dela puspita\Documents\INFORMATIKA SMT 5 (MSIB)\dicoding-try\combined_data.xls')
+combined_df = pd.read_csv('data/combined_data.csv')
 
 # Berikan judul dashboard
 st.title("Dashboard Analisis Data : E-Commerce Public Dataset by Olist")
