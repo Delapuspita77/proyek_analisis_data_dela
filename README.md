@@ -49,6 +49,6 @@ Untuk menjalankan dasbor interaktif:
    ```
 2. Jalankan aplikasi Streamlit:
    ```bash
-   streamlit run dashboard.py
+   streamlit run dashboard/dashboard.py
    ```
 
