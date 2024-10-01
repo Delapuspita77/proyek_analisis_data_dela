@@ -1,15 +1,15 @@
-# Proyek Analisis Data : E-Commerce Public Dataset by Olist
+# Proyek Analisis Data : E-Commerce Public Dataset by Olist 🎁 
 
 Analisis ini dibuat dengan tujuan memahami pola penjualan, kesesuaian estimasi waktu pengiriman, dan analisis skor review pelanggan dengan kurun waktu tertentu sesuai dengan data yang telah tersedia.
 
-## Fitur Utama
+## Fitur Utama⚡
 
 1. Analisis pola penjualan daalam kurun waktu tertentu.
 2. Analisis kesesuaian produk tiba dengan estimasi waktu pengiriman.
 3. Analisis rata-rata review yang didapat.
 4. Visualisasi interaktif : Pengguna dapat mengatur tanggal mulai dan akhir untuk mengetahui analisis pada waktu-waktu tertentu sesuai keinginan.
 
-## Struktur Proyek
+## Struktur Proyek 🔍
 
 Proyek ini terdiri dari beberapa file dan direktori:
 - `dashboard.py`: Script Python untuk menjalankan dasbor interaktif menggunakan Streamlit.
@@ -23,7 +23,7 @@ Proyek ini terdiri dari beberapa file dan direktori:
 - `requirements.txt`: Daftar library yang diperlukan untuk menjalankan proyek
 - `url.txt` : Link dashboard streamlit yang bisa langsung dibuka
 
-## Cara Menjalankan Proyek
+## Cara Menjalankan Proyek🔓
 
 ### 1. Menjalankan file ipynb di Google Collabs
 
